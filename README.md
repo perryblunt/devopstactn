@@ -9,7 +9,7 @@ PLURALSIGHT
 ===========
 [Understanding DevOps](https://app.pluralsight.com/paths/skills/understanding-devops).  
 [Fundamentals of DevSecOps](https://app.pluralsight.com/paths/skills/fundamentals-of-devsecops).  
-[Contious Integration and Continuos Deliver - The Big Picture](https://app.pluralsight.com/library/courses/. continuous-integration-delivery-big-picture/table-of-contents).  
+[CI/CD The Big Picture](https://app.pluralsight.com/library/courses/continuous-integration-delivery-big-picture/table-of-contents).  
 
 DEVOPS_SIDE_HUSTLES
 ====================
