@@ -17,6 +17,10 @@ DEVOPS_SIDE_HUSTLES
 [US BANK-Tackling Silos through DevOps at US Bank](https://www.youtube.com/watch?v=TG2jC32p3C4).  
 [Awesome DevOps](https://github.com/wmariuss/awesome-devops).  
 
+linuxacademy
+===========
+Course: Implementing a Full CI/CD Pipeline
+
 
 BOOKS 
 =====
